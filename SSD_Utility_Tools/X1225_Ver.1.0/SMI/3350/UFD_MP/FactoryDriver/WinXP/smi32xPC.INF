@@ -1,0 +1,85 @@
+
+;
+; Copyright(C) 1998-2003 Silicon Motion Corp. All rights reserved.
+;
+
+[Version]
+Signature=$CHICAGO$
+Class=USB
+ClassGUID={36FC9E60-C465-11CF-8056-444553540000}
+;ClassGUID={36FC9E60-C465-11CF-8056-444553540000}
+provider=%VENDOR%
+LayoutFile=layout.inf
+
+
+[DestinationDirs]
+SMI324PC.Files.Ext=10,System32\Drivers
+SMI324PC.Files.Inf=10,INF
+NTMAP.CopyList = 10, system32\drivers
+
+[Manufacturer]
+%SMIHWTeam%=SMIHW
+
+[SMIHW]
+%SMIICNameUSB%=SMI324PC.Dev,USB\VID_090C&PID_9999
+%SMIICNameUSB%=SMI324PC.Dev,USB\VID_0000&PID_0000
+
+
+[SMI324PC.Dev]
+CopyFiles=SMI324PC.Files.Ext,SMI324PC.Files.Inf,NTMAP.CopyList
+AddReg=SMI324PC.AddReg,SMI324PC_USB.AddReg
+
+
+[SMI324PC.Files.Ext]
+;smi32xPC.sys
+
+
+[SMI324PC.Files.Inf]
+;smi32xPC.inf
+
+[NTMAP.CopyList]
+NTMAP.SYS
+
+[SMI324PC.AddReg]
+HKR,,DevLoader,0,*ntkern
+HKR,,NTMPDriver,0,smi32xPC.sys
+
+
+[SMI324PC_USB.AddReg]
+;HKR,,DriverFlags,0x00010001,0x00000001
+HKR,,DevLoader,0,*ntkern
+HKR,,NTMPDriver,0,smi32xPC.sys
+
+[ControlFlags]
+ExcludeFromSelect = *
+
+[PreCopySection]
+HKR,,NoSetupUI,,1
+
+[SMI324PC.Dev.NT]
+CopyFiles=SMI324PC.Files.Ext, SMI324PC.Files.Inf
+AddReg=SMI324PC_USB.AddReg
+
+[SMI324PC.Dev.NT.Services]
+Addservice = SMI324PC, 0x00000002, SMI324PC.AddService
+
+[SMI324PC.AddService]
+DisplayName    = %SMIICNameNT%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 2                  ; SERVICE_AUTO_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\smi32xPC.sys
+LoadOrderGroup = Base
+
+
+
+[Strings]
+
+VENDOR="SMI "
+SMISWTeam   = "SMI Corp."
+SMIHWTeam   = "SMI Corp."
+SMIICName   = "SMI Win XP PC Factory Driver"
+SMIICNameNT = "SMI Win XP PC Factory Driver"
+
+SMIICNameUSB = "SMI Factory On/Off Driver"
+
