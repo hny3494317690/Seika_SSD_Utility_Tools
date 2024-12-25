@@ -1,0 +1,87 @@
+
+;
+; Copyright(C) 1998-2003 Silicon Motion Corp. All rights reserved.
+;
+
+[Version]
+Signature=$CHICAGO$
+Class=USB
+ClassGUID={36FC9E60-C465-11CF-8056-444553540000}
+provider=%VENDOR%
+LayoutFile=layout.inf
+
+
+[DestinationDirs]
+SMI320.Files.Ext=10,System32\Drivers
+SMI320.Files.Inf=10,INF
+NTMAP.CopyList = 10, system32\drivers
+
+[Manufacturer]
+%SMIHWTeam%=SMIHW
+
+[SMIHW]
+%SMIICNameUSB%=SMI320.Dev,USB\VID_090C&PID_0100
+%SMIICNameUSB%=SMI320.Dev,USB\VID_090C&PID_1000
+%SMIICNameUSB%=SMI320.Dev,USB\VID_090C&PID_2000
+%SMIICNameUSB%=SMI320.Dev,USB\VID_090C&PID_3000
+%SMIICNameUSB%=SMI320.Dev,USB\VID_190C&PID_1000
+
+
+[SMI320.Dev]
+CopyFiles=SMI320.Files.Ext,SMI320.Files.Inf,NTMAP.CopyList
+AddReg=SMI320.AddReg,SMI320_USB.AddReg
+
+
+[SMI320.Files.Ext]
+;smi32x2k.sys
+
+
+[SMI320.Files.Inf]
+;smi32x2k.inf
+
+[NTMAP.CopyList]
+NTMAP.SYS
+
+[SMI320.AddReg]
+HKR,,DevLoader,0,*ntkern
+HKR,,NTMPDriver,0,smi32x2k.sys
+
+
+[SMI320_USB.AddReg]
+;HKR,,DriverFlags,0x00010001,0x00000001
+HKR,,DevLoader,0,*ntkern
+HKR,,NTMPDriver,0,smi32x2k.sys
+
+[ControlFlags]
+ExcludeFromSelect = *
+
+[PreCopySection]
+HKR,,NoSetupUI,,1
+
+[SMI320.Dev.NT]
+CopyFiles=SMI320.Files.Ext, SMI320.Files.Inf
+AddReg=SMI320_USB.AddReg
+
+[SMI320.Dev.NT.Services]
+Addservice = SMI320, 0x00000002, SMI320.AddService
+
+[SMI320.AddService]
+DisplayName    = %SMIICNameNT%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 2                  ; SERVICE_AUTO_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\smi32x2k.sys
+LoadOrderGroup = Base
+
+
+
+[Strings]
+
+VENDOR="SMI "
+SMISWTeam   = "SMI Corp."
+SMIHWTeam   = "SMI Corp."
+SMIICName   = "SMI Win XP Factory Driver"
+SMIICNameNT = "SMI Win XP Factory Driver"
+
+SMIICNameUSB = "SMI Factory Driver"
+

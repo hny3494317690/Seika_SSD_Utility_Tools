@@ -1,0 +1,1846 @@
+
+==================================================
+Begin Test Time : 2019/02/12 13:35
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2019/02/12 13:35 
+==================================================
+
+==================================================
+Begin Test Time : 2019/02/12 13:35
+Begin Serial : AA00000000015042
+End Serial : AA00000000015043
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2019/02/12 13:36 
+==================================================
+
+==================================================
+Begin Test Time : 2019/02/12 13:36
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2019/02/12 13:36 
+==================================================
+
+==================================================
+Begin Test Time : 2019/03/12 12:39
+Begin Serial : AA00000000015042
+End Serial : AA00000000015043
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 0
+Test Fail = 1
+End Test Time   : 2019/03/12 12:40 
+==================================================
+
+==================================================
+Begin Test Time : 2019/03/12 17:01
+Begin Serial : AA00000000015045
+End Serial : AA00000000015047
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 2
+Test Fail = 0
+End Test Time   : 2019/03/12 17:05 
+==================================================
+
+==================================================
+Begin Test Time : 2019/03/12 16:59
+Begin Serial : AA00000000015043
+End Serial : AA00000000015045
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 1
+Test Fail = 1
+End Test Time   : 2019/03/12 17:05 
+==================================================
+
+==================================================
+Begin Test Time : 2019/04/16 16:09
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2019/04/16 16:09 
+==================================================
+
+==================================================
+Begin Test Time : 2019/04/16 16:12
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2019/04/16 16:12 
+==================================================
+
+==================================================
+Begin Test Time : 2019/04/16 16:12
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2019/04/16 16:12 
+==================================================
+
+==================================================
+Begin Test Time : 2019/04/16 16:13
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2019/04/16 16:13 
+==================================================
+
+==================================================
+Begin Test Time : 2019/04/16 16:21
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2019/04/16 16:21 
+==================================================
+
+==================================================
+Begin Test Time : 2019/04/17 08:46
+Begin Serial : AA00000000015044
+End Serial : AA00000000015045
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 0
+Test Fail = 1
+End Test Time   : 2019/04/17 08:47 
+==================================================
+
+==================================================
+Begin Test Time : 2019/04/17 11:20
+Begin Serial : AA00000000015044
+End Serial : AA00000000015045
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2019/04/17 11:22 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 16:07
+Begin Serial : AA00000000015044
+End Serial : AA00000000015045
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/26 16:09 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 16:51
+Begin Serial : AA00000000015046
+End Serial : AA00000000015047
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/26 16:53 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 16:47
+Begin Serial : AA00000000015044
+End Serial : AA00000000015046
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 2
+Test Fail = 0
+End Test Time   : 2020/03/26 17:02 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 17:09
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/03/26 17:09 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 17:05
+Begin Serial : AA00000000015047
+End Serial : AA00000000015048
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/26 17:09 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 17:02
+Begin Serial : AA00000000015046
+End Serial : AA00000000015047
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/26 17:09 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 17:10
+Begin Serial : AA00000000015046
+End Serial : AA00000000015047
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/26 17:13 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 17:13
+Begin Serial : AA00000000015046
+End Serial : AA00000000015047
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/26 17:15 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 17:16
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/03/26 17:17 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 17:17
+Begin Serial : AA00000000015046
+End Serial : AA00000000015047
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/26 17:20 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 17:20
+Begin Serial : AA00000000015046
+End Serial : AA00000000015047
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/26 17:23 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 17:23
+Begin Serial : AA00000000015046
+End Serial : AA00000000015047
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/26 17:25 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/26 17:27
+Begin Serial : AA00000000015047
+End Serial : AA00000000015048
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/27 11:04 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 11:04
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/03/27 11:05 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 11:17
+Begin Serial : AA00000000015051
+End Serial : AA00000000015053
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 1
+Test Fail = 1
+End Test Time   : 2020/03/27 11:22 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 11:05
+Begin Serial : AA00000000015047
+End Serial : AA00000000015051
+Serial Mask :  AA##############
+
+
+Test Total = 4
+Test Pass = 4
+Test Fail = 0
+End Test Time   : 2020/03/27 11:23 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 11:23
+Begin Serial : AA00000000015052
+End Serial : AA00000000015053
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/27 11:28 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 11:29
+Begin Serial : AA00000000015052
+End Serial : AA00000000015054
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 2
+Test Fail = 0
+End Test Time   : 2020/03/27 11:33 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 11:53
+Begin Serial : AA00000000015053
+End Serial : AA00000000015054
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/27 11:54 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 13:35
+Begin Serial : AA00000000015054
+End Serial : AA00000000015055
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/27 13:36 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 13:38
+Begin Serial : AA00000000015054
+End Serial : AA00000000015055
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/27 13:44 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 13:44
+Begin Serial : AA00000000015054
+End Serial : AA00000000015055
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/27 13:49 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 13:49
+Begin Serial : AA00000000015054
+End Serial : AA00000000015055
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/27 14:04 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 14:05
+Begin Serial : AA00000000015054
+End Serial : AA00000000015055
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/27 14:09 
+==================================================
+
+==================================================
+Begin Test Time : 2020/03/27 14:10
+Begin Serial : AA00000000015054
+End Serial : AA00000000015055
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/03/30 11:07 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/21 13:41
+Begin Serial : AA00000000015054
+End Serial : AA00000000015058
+Serial Mask :  AA##############
+
+
+Test Total = 4
+Test Pass = 2
+Test Fail = 2
+End Test Time   : 2020/04/21 13:52 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/21 14:05
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/04/21 14:17 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/21 14:46
+Begin Serial : AA00000000015057
+End Serial : AA00000000015059
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 1
+Test Fail = 1
+End Test Time   : 2020/04/21 14:49 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/21 15:57
+Begin Serial : AA00000000015058
+End Serial : AA00000000015061
+Serial Mask :  AA##############
+
+
+Test Total = 3
+Test Pass = 3
+Test Fail = 0
+End Test Time   : 2020/04/21 17:10 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/21 17:24
+Begin Serial : AA00000000015060
+End Serial : AA00000000015062
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 2
+Test Fail = 0
+End Test Time   : 2020/04/21 17:28 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/22 11:48
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/04/22 11:49 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/22 11:36
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/04/22 11:49 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/22 11:50
+Begin Serial : AA00000000015061
+End Serial : AA00000000015062
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/04/22 11:51 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/22 13:56
+Begin Serial : AA00000000015062
+End Serial : AA00000000015063
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/04/22 13:59 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/22 14:17
+Begin Serial : AA00000000015068
+End Serial : AA00000000015069
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 0
+Test Fail = 1
+End Test Time   : 2020/04/22 14:18 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/27 16:05
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/04/27 16:05 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/27 16:05
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/04/27 16:05 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/27 16:03
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/04/27 16:06 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/27 16:05
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/04/27 16:06 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/27 16:06
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/04/27 16:07 
+==================================================
+
+==================================================
+Begin Test Time : 2020/04/27 16:11
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/04/27 16:11 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/15 13:58
+Begin Serial : AA00000000015069
+End Serial : AA00000000015072
+Serial Mask :  AA##############
+
+
+Test Total = 3
+Test Pass = 3
+Test Fail = 0
+End Test Time   : 2020/05/15 15:07 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/15 15:44
+Begin Serial : AA00000000015071
+End Serial : AA00000000015082
+Serial Mask :  AA##############
+
+
+Test Total = 11
+Test Pass = 11
+Test Fail = 0
+End Test Time   : 2020/05/15 16:07 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/15 16:10
+Begin Serial : AA00000000015081
+End Serial : AA00000000015082
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/05/15 16:11 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/15 16:11
+Begin Serial : AA00000000015081
+End Serial : AA00000000015082
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/05/15 16:11 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/15 16:11
+Begin Serial : AA00000000015081
+End Serial : AA00000000015104
+Serial Mask :  AA##############
+
+
+Test Total = 23
+Test Pass = 23
+Test Fail = 0
+End Test Time   : 2020/05/15 16:12 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/15 16:12
+Begin Serial : AA00000000015104
+End Serial : AA00000000015105
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/05/15 16:12 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/28 15:05
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/05/28 15:05 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/28 15:05
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/05/28 15:06 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/28 16:32
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/05/28 16:32 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/28 16:32
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/05/28 16:32 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/29 16:14
+Begin Serial : AA00000000015104
+End Serial : AA00000000015105
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2020/05/29 16:19 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/31 11:56
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/05/31 11:56 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/31 11:56
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/05/31 11:56 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/31 11:56
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/05/31 11:56 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/31 11:56
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/05/31 11:56 
+==================================================
+
+==================================================
+Begin Test Time : 2020/05/31 11:57
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2020/05/31 11:57 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 14:47
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/09 14:48 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 14:48
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 1
+Test Fail = 1
+End Test Time   : 2021/10/09 14:52 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 14:55
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/09 14:57 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 14:57
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/09 14:58 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 14:59
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/10/09 14:59 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 15:02
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/09 15:02 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 15:12
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 6
+Test Pass = 5
+Test Fail = 1
+End Test Time   : 2021/10/09 15:53 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 15:53
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 6
+Test Pass = 3
+Test Fail = 3
+End Test Time   : 2021/10/09 16:02 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 21:30
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/09 21:38 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 21:41
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/10/09 21:42 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 21:46
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/09 21:46 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 22:41
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 0
+Test Fail = 1
+End Test Time   : 2021/10/09 22:45 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/09 22:46
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/09 22:46 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/11 13:55
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/11 13:55 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/11 16:23
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 4
+Test Pass = 2
+Test Fail = 2
+End Test Time   : 2021/10/11 16:31 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/11 16:33
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 4
+Test Pass = 2
+Test Fail = 2
+End Test Time   : 2021/10/11 16:36 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/11 19:56
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/10/11 19:57 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/13 11:03
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/10/13 11:03 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/13 11:05
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 0
+Test Fail = 2
+End Test Time   : 2021/10/13 11:09 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/13 11:11
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 4
+Test Pass = 2
+Test Fail = 2
+End Test Time   : 2021/10/13 11:23 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/13 11:45
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/13 11:46 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/13 11:46
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/10/13 11:47 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/13 12:10
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 0
+Test Fail = 2
+End Test Time   : 2021/10/13 12:12 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/13 13:32
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/10/13 13:32 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/14 13:28
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 3
+Test Pass = 0
+Test Fail = 3
+End Test Time   : 2021/10/14 13:51 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/14 18:10
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/14 18:10 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/14 18:12
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/14 18:13 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/14 18:14
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 0
+Test Fail = 2
+End Test Time   : 2021/10/14 18:15 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/14 18:37
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/14 18:37 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/14 18:37
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 3
+Test Pass = 1
+Test Fail = 2
+End Test Time   : 2021/10/14 18:53 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/15 11:53
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 0
+Test Fail = 2
+End Test Time   : 2021/10/15 12:00 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/21 12:59
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/21 13:00 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/21 13:01
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/21 13:01 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/25 22:44
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/25 22:45 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/25 22:46
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/25 22:46 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/26 12:10
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/26 12:11 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/27 18:02
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 0
+Test Fail = 1
+End Test Time   : 2021/10/27 18:02 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/29 09:52
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/10/29 09:53 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/29 12:01
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/29 12:01 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/29 12:01
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 5
+Test Pass = 1
+Test Fail = 4
+End Test Time   : 2021/10/29 12:17 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/29 12:19
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 1
+Test Fail = 1
+End Test Time   : 2021/10/29 12:20 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/29 14:28
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 0
+Test Fail = 1
+End Test Time   : 2021/10/29 14:28 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/29 14:29
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/29 14:29 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/30 10:52
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/10/30 10:53 
+==================================================
+
+==================================================
+Begin Test Time : 2021/10/30 10:56
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 9
+Test Pass = 2
+Test Fail = 7
+End Test Time   : 2021/10/30 12:08 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/02 15:43
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/11/02 15:49 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/03 10:14
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/11/03 10:15 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/03 11:04
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/03 11:04 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/05 10:09
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/05 10:10 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/05 10:11
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 1
+Test Fail = 1
+End Test Time   : 2021/11/05 10:13 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/05 12:36
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/05 12:36 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/05 12:44
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/05 12:45 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/05 12:52
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/05 12:52 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/05 12:54
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/05 12:56 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/05 12:57
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/05 12:59 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/08 15:50
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 1
+Test Fail = 1
+End Test Time   : 2021/11/08 15:51 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/10 09:50
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/11/10 09:50 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/10 13:35
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/10 13:44 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/10 14:29
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/10 14:30 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/10 14:36
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/11/10 14:37 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/12 16:23
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/12 16:24 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/12 16:24
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/11/12 16:25 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/13 13:13
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 3
+Test Pass = 1
+Test Fail = 2
+End Test Time   : 2021/11/13 13:30 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/13 14:17
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/13 14:17 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/15 10:41
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/11/15 10:42 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/15 10:54
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 4
+Test Pass = 1
+Test Fail = 3
+End Test Time   : 2021/11/15 11:39 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/16 13:49
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/16 14:01 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/16 14:49
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 4
+Test Pass = 1
+Test Fail = 3
+End Test Time   : 2021/11/16 14:51 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/16 15:41
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 2
+Test Pass = 1
+Test Fail = 1
+End Test Time   : 2021/11/16 15:42 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/17 16:31
+Begin Serial : AA00000000015104
+End Serial : 
+Serial Mask :  AA##############
+
+
+Test Total = 1
+Test Pass = 1
+Test Fail = 0
+End Test Time   : 2021/11/17 16:32 
+==================================================
+
+==================================================
+Begin Test Time : 2021/11/17 16:41
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2021/11/17 16:45 
+==================================================
+
+==================================================
+Begin Test Time : 2024/01/14 15:39
+Begin Serial : 
+End Serial : 
+Serial Mask :  
+
+
+Test Total = 0
+Test Pass = 0
+Test Fail = 0
+End Test Time   : 2024/01/14 15:39 
+==================================================

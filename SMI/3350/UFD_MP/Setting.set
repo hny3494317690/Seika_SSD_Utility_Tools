@@ -1,0 +1,68 @@
+[MPINFO]
+PACKAGEVER=S0416V1
+
+[FORCEID]
+ENABLEFORCEID=0 
+
+[FUNCTION]
+EnExFATNoneMBRMode=0 
+FormatBitBase=256
+EnableBarCode=1               // 啟動 Bar Code Dialog & 可供輸入 Serial Number
+EnableBarCodeKeep=0      // 輸入在 Bar Code Dialog  資料可保留下來, 若為0 不保留.  
+EnableSetPartition=1       // Set partition (MR0823 or Above)
+SetPartitionFailThenStop=0 // Don't care fail case in set partition flow 
+CustomerType=0             // Default Type (1:S, 2:X) 
+EnableISPOnly=0            // Support ISP with 1K 
+ForceISPLen=64512          // ISP size with 63K 
+PortMappingMode=0          // Enable port mapping 
+EnableLoadSmallBIN=1       // Enable to load small BIN
+ForceSmallBINLen=64512     // Small BIN size with 63K 
+ExeSmallBINAddr=0x0001d0e8 // Small BIN execute address 
+SmallBINFile=SM3350AA\3350_SmallBin.BIN
+EnableSaveCID=0            // Save CID File 
+EnableSaveEEPROM=1         // Save EERPOM File 
+EnableShowDiskLetter=0     // Show letter or not for in-box 
+EnableMultiLanguage=0      // Enable multiple language 
+TIMEDisplay=0              // Create a timer  
+EnableSyncClientSocket=0   // Sync mode 
+HandlerIP=10.1.1.1         // Sync mode
+HandlerPort=2000           // Sync mode 
+ENABLETSFUN=0              // TS
+ENABLECOLUMNBUTTON=0       // TS
+EnableShowBigBmp=0         // TS 
+EnableDebugMessage=0
+EnableDebugMode=1          // Show debug button 
+ISPSignature=0             // 0: AA & AB signature, 1: AC
+ForceCIDLen=1024           // EEPROM size 128,256, 512, 1024 
+Reserved=0                 // CID 0x08
+UFSTimeOut=0               // CID 0x09
+SpecialSetting=0x10        // CID 0x0B
+UFSSleepSpeed=0x00            // CID 0x0C
+UFSAutoSpeedTime=0         // CID 0x0D
+SDConfig=0                 // CID 0x0E
+ROMDelayTime=0             // CID 0x0F
+UASPDisable=1              // CID 0x12
+USBConfig=0                // CID 0x13
+EEPROMSelectICCM=0         // CID 0x14
+UASPRWHandle=0             // CID 0x15
+EEPROMLowCapFlag=0         // CID 0x16
+EEPROMI2CFreqClk=0         // CID 0x1F 
+TempUpperLimit=75          // CID 0x28
+
+[PROCESS]
+UPDATESNAFTERPASS=0
+
+[OPTION]
+RunProducttionMode=1
+
+[INITIAL]
+AUTOINSTALLFACTORYDRIVER=0
+EnableAutoLoad=0
+AutoLoadINIPath=
+DELETELOCALINI=0
+EnableNoDeleteINI=0
+
+
+[TEST]
+CtrlBoardDiskLetter1=
+CtrlBoardDiskLetter2=
